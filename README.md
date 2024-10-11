@@ -1,0 +1,1 @@
+# YOLOv5-based-Plant-Stem-Node-Detection-and-Clipping
